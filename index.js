@@ -12,8 +12,7 @@ exports.handler = async function http(req) {
   <body>
 
     <h1 class="center-text">
-      <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello world!
+hi shaz!
     </h1>
 
     <p class="center-text">
